@@ -1,3 +1,15 @@
+# Dependency directories
 node_modules/
-.cache/
+
+# dotenv environment variables file
+.env*
+
+# Gatsby build folder
 public
+
+# Gatsby cache folder
+.cache
+
+# System files
+.DS_Store
+Thumbs.db
